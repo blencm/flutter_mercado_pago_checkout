@@ -1,4 +1,4 @@
-package ar.com.p39.mercado_pago_mobile_checkout_example.example
+package com.mercado_pago.flutter.android.example
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,4 +1,4 @@
-package ar.com.p39.mercado_pago_mobile_checkout
+package com.mercado_pago.flutter.android
 
 import android.app.Activity
 import android.app.Activity.RESULT_CANCELED

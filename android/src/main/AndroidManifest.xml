@@ -1,3 +1,3 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="ar.com.p39.mercado_pago_mobile_checkout">
+  package="com.mercado_pago.flutter.android">
 </manifest>
